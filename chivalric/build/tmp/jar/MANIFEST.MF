@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: chivalric
+Implementation-Version: 0.1
+Specification-Vendor: gtlugo
+Specification-Title: chivalric
+Implementation-Timestamp: 2021-01-02T05:56:53-0500
+Specification-Version: 1
+Implementation-Vendor: gtlugo
+
